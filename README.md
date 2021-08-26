@@ -9,7 +9,14 @@ The causal graph is a central object in the framework mentioned above, but it is
  </p>
 
 ## Code
-The code of our analysis can be found in the **notebooks** folder. The data loading, visualization, and modelling can be found in the **Data Exploration.ipynb** jupyter notebook. The **scripts** folder contains the data loading and preprocessing functions. 
+The code of our analysis can be found in the **notebooks** folder. The data loading, visualization, and modelling can be found in the **Data Exploration.ipynb** jupyter notebook. The notebook also contains the code for training four types of classification models.
+<ol>
+<li>Logistic Regression Classification</li>
+<li>Random Forest Classification</li>
+<li>SVM Classification</li>
+<li>3 Layer DNN</li>
+</ol>
+The **scripts** folder contains the data loading and preprocessing functions. 
 
 ## Dependencies
 To install the necessary dependencies, execute the command 
