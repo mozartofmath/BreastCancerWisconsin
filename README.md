@@ -21,7 +21,7 @@ The code of our analysis can be found in the **notebooks** folder. The data load
 <li>3 Layer DNN :- Best Accuracy: 96.49%</li>
 <li>Large Bayesian Network:- Best Accuracy: 87.7%</li>
 <li>Simplified Bayesian Network:- Best Accuracy: 89.5%</li>
-<ol>
+</ol>
 
 The **scripts** folder contains the data loading and preprocessing functions. 
 
